@@ -10,3 +10,8 @@ Fundamentos de JAVA
   - [0.5 Doble,Triple,Raiz de numero](https://github.com/ErickOrtiz0298/01_Globant_Intro_Java/tree/main/00_Ejercicios_Introductorios/DobleTripleRaizNumero)
 
 1.Condicionales 
+
+  - [1.6 NumeroParImpar](https://github.com/ErickOrtiz0298/01_Globant_Intro_Java/tree/main/00_Ejercicios_Introductorios/SumaDeNumeros)
+  - [1.7 Longitud de Frase](https://github.com/ErickOrtiz0298/01_Globant_Intro_Java/tree/main/00_Ejercicios_Introductorios/NombreEnPantalla)
+  - [1.8 Longitud String](https://github.com/ErickOrtiz0298/01_Globant_Intro_Java/tree/main/00_Ejercicios_Introductorios/FraseMayusculasMinusculas)
+  - [1.9 Identificar una letra especifica A](https://github.com/ErickOrtiz0298/01_Globant_Intro_Java/tree/main/00_Ejercicios_Introductorios/CentigradosFarenheit)
