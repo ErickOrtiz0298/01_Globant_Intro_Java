@@ -15,3 +15,9 @@ Fundamentos de JAVA
   - [1.7 Identificar Frase](https://github.com/ErickOrtiz0298/01_Globant_Intro_Java/tree/main/01_CondicionalesJava/IdentificarFrase)
   - [1.8 Longitud String](https://github.com/ErickOrtiz0298/01_Globant_Intro_Java/tree/main/01_CondicionalesJava/LongitudString)
   - [1.9 Identificar una letra especifica A](https://github.com/ErickOrtiz0298/01_Globant_Intro_Java/tree/main/01_CondicionalesJava/IdentificarLetraA)
+    
+2.Bucles y sentencias de salto break y continue.
+
+- [1.10 Suma Iterada](https://github.com/ErickOrtiz0298/01_Globant_Intro_Java/tree/main/02_Bucles_Sentencias_BreakContinue/SumaIterada)
+
+
