@@ -20,5 +20,6 @@ Fundamentos de JAVA
 
 - [1.10 Suma Iterada](https://github.com/ErickOrtiz0298/01_Globant_Intro_Java/tree/main/02_Bucles_Sentencias_BreakContinue/SumaIterada)
 - [1.11 CalculadoraBasica](https://github.com/ErickOrtiz0298/01_Globant_Intro_Java/tree/main/02_Bucles_Sentencias_BreakContinue/CalculadoraBasica)
+- [1.12 DispositivoRS232](https://github.com/ErickOrtiz0298/01_Globant_Intro_Java/tree/main/02_Bucles_Sentencias_BreakContinue/DispositivoRS232)
 
 
