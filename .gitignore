@@ -24,3 +24,5 @@
 /02_Bucles_Sentencias_BreakContinue/DispositivoRS232/build/
 /02_Bucles_Sentencias_BreakContinue/DibujarCuadrados/nbproject/private/
 /02_Bucles_Sentencias_BreakContinue/DibujarCuadrados/build/
+out
+.idea
