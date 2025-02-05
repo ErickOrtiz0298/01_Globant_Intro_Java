@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/01_Globant_Intro_Java.iml" filepath="$PROJECT_DIR$/.idea/01_Globant_Intro_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_Bucles_Sentencias_BreakContinue/CalculadoraBasica/CalculadoraBasica.iml" filepath="$PROJECT_DIR$/02_Bucles_Sentencias_BreakContinue/CalculadoraBasica/CalculadoraBasica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/00_Ejercicios_Introductorios/CentigradosFarenheit/CentigradosFarenheit.iml" filepath="$PROJECT_DIR$/00_Ejercicios_Introductorios/CentigradosFarenheit/CentigradosFarenheit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_Bucles_Sentencias_BreakContinue/DibujarCuadrados/DibujarCuadrados.iml" filepath="$PROJECT_DIR$/02_Bucles_Sentencias_BreakContinue/DibujarCuadrados/DibujarCuadrados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_Bucles_Sentencias_BreakContinue/DispositivoRS232/DispositivoRS232.iml" filepath="$PROJECT_DIR$/02_Bucles_Sentencias_BreakContinue/DispositivoRS232/DispositivoRS232.iml" />
+      <module fileurl="file://$PROJECT_DIR$/00_Ejercicios_Introductorios/DobleTripleRaizNumero/DobleTripleRaizNumero.iml" filepath="$PROJECT_DIR$/00_Ejercicios_Introductorios/DobleTripleRaizNumero/DobleTripleRaizNumero.iml" />
+      <module fileurl="file://$PROJECT_DIR$/00_Ejercicios_Introductorios/FraseMayusculasMinusculas/FraseMayusculasMinusculas.iml" filepath="$PROJECT_DIR$/00_Ejercicios_Introductorios/FraseMayusculasMinusculas/FraseMayusculasMinusculas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_CondicionalesJava/IdentificarFrase/IdentificarFrase.iml" filepath="$PROJECT_DIR$/01_CondicionalesJava/IdentificarFrase/IdentificarFrase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_CondicionalesJava/IdentificarLetraA/IdentificarLetraA.iml" filepath="$PROJECT_DIR$/01_CondicionalesJava/IdentificarLetraA/IdentificarLetraA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_CondicionalesJava/LongitudString/LongitudString.iml" filepath="$PROJECT_DIR$/01_CondicionalesJava/LongitudString/LongitudString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/00_Ejercicios_Introductorios/NombreEnPantalla/NombreEnPantalla.iml" filepath="$PROJECT_DIR$/00_Ejercicios_Introductorios/NombreEnPantalla/NombreEnPantalla.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_CondicionalesJava/NumeroParImpar/NumeroParImpar.iml" filepath="$PROJECT_DIR$/01_CondicionalesJava/NumeroParImpar/NumeroParImpar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/00_Ejercicios_Introductorios/SumaDeNumeros/SumaDeNumeros.iml" filepath="$PROJECT_DIR$/00_Ejercicios_Introductorios/SumaDeNumeros/SumaDeNumeros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_Bucles_Sentencias_BreakContinue/SumaIterada/SumaIterada.iml" filepath="$PROJECT_DIR$/02_Bucles_Sentencias_BreakContinue/SumaIterada/SumaIterada.iml" />
+    </modules>
+  </component>
+</project>
